@@ -1,12 +1,13 @@
 {
   "name": "taskplanet-post-backend",
   "version": "1.0.0",
-  "description": "Backend for mini social post application (3W Full Stack Internship Assignment)",
+  "description": "Backend for mini social post application",
   "main": "src/server.js",
   "type": "module",
   "scripts": {
     "start": "node src/server.js",
-    "dev": "nodemon src/server.js"
+    "dev": "nodemon src/server.js",
+    "build": "echo \"building...\""
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",

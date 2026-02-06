@@ -1,6 +1,6 @@
 # TaskPlanet Mini Social Post Application
 
-A full-stack social media application built for the 3W Full Stack Internship Assignment. Users can create accounts, post text or images, view posts from others, like, and comment on posts.
+A full-stack social media application build with node.js and react.js. Users can create accounts, post text or images, view posts from others, like, and comment on posts.
 
 ## Features
 
@@ -203,6 +203,3 @@ The frontend will run on `http://localhost:5173`
 - The app uses JWT tokens stored in localStorage for authentication
 - Posts require either text or image (or both), but at least one is required
 
-## License
-
-This project is created for the 3W Full Stack Internship Assignment.
