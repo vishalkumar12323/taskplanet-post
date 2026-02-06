@@ -94,7 +94,7 @@ const Signup = () => {
               fullWidth
               label="Password"
               type="password"
-              value={password}
+              value={formData.password}
               name='password'
               onChange={handleInputChange}
               required
